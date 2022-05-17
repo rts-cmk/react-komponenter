@@ -16,7 +16,7 @@ De færdige komponenter skal præsenteres i en React applikation på samme måde
 3. Der skal foretages et merge til `main`, når komponentet er færdigt - men lad være med at slette komponentets branch.
 
 ### Komponeneter
-Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt tilfældet når man kikker lidt nærmere.
+Ved første øjekast ligner flere komponenter hinanden, men det er ikke helt tilfældet når man ser lidt nærmere efter.
 
 Det kan være små forskelle som fx. farven på en overskrift som differentiere. 
 
